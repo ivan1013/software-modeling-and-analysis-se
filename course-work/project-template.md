@@ -40,7 +40,7 @@
 
 ### 3. Технологичен стек
 
-* **Сървърна част (Backend):** MS SQL Server  
+* **Сървърна част (Backend):** C#
 * **Клиентска част (Frontend):** MS Blazor
 * **База данни (Database):** MS SQL
 
