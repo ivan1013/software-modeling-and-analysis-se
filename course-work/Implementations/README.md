@@ -1,11 +1,12 @@
-Project Management Platform
-Курсова работа по софтуерно моделиране и анализ
+# Project Management Platform
+## Курсова работа по софтуерно моделиране и анализ
 
-Студент: Иван Сиянов Факултетен номер: 2301321013 
-Специалност: СИ 
-Репозитори: https://github.com/ivan1013/software-modeling-and-analysis-se
+## Студент: Иван Сиянов 
+## Факултетен номер: 2301321013 
+## Специалност: СИ 
+### Репозитори: https://github.com/ivan1013/software-modeling-and-analysis-se
 
-📌 Описание на проекта
+## 📌 Описание на проекта
 
 Проектът представлява платформа за управление на проекти (Project Management Platform), която поддържа:
 
